@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Always something new**
 
-- 🌱 I’m currently learning **New javascript frameworks**
+- 🌱 I’m currently learning **AI**
 
 - 📝 My website [https://www.massimiliano.dev/](https://www.massimiliano.dev/)
-
-- 💬 Ask me about **My dog or my cat**
 
 - 📫 How to reach me **bianchini.massimiliano.34578@gmail.com**
 

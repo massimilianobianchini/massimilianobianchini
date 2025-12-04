@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Massimiliano Bianchini</h1>
-<h3 align="center">A Senior - AI Dev - Web Technician - Full Stack Dev</h3>
+<div align="center">
+ Massimiliano Bianchini
+</div>
 
-- 🔭 I’m currently working on **Always something new**
+<br/>
 
-- 🌱 I’m currently learning **AI**
+<div align="center">
+  <a href="https://linkedin.com/in/massimiliano-bianchini-53a118162/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bianchini.massimiliano.34578@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://massimilianobianchini.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Live_System-00ff41?style=for-the-badge&logo=firefox&logoColor=black" />
+  </a>
+</div>
 
-- 📝 My website [https://www.massimiliano.dev/](https://www.massimiliano.dev/)
+<br/>
 
-- 📫 How to reach me **bianchini.massimiliano.34578@gmail.com**
+### 👨‍💻 `whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/massimiliano-bianchini-53a118162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="massimiliano-bianchini-53a118162" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17699871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17699871" height="30" width="40" /></a>
+```javascript
+const massimiliano = {
+  role: "Senior Software Developer",
+  company: "Almaviva", //
+  location: "Rome, Italy", //
+  experience: "5+ Years (Java Ent. -> AI Architect)", //
+  currentFocus: [
+    "Generative AI",
+    "RAG Pipelines",
+    "Multi-Agent Systems"
+  ], //
+  mission: "Transforming enterprise complexity into scalable AI solutions."
+};
